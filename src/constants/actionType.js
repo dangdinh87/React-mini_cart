@@ -1,0 +1,4 @@
+export const ADD_TO_CARD = 'ADD_TO_CARD';
+export const CHANGE_MESSAGE = 'CHANGE_MESSAGE';
+export const DELETE_CARD = 'DELETE_CARD';
+export const UPDATE_QUANLITY = 'UPDATE_QUANLITY';
